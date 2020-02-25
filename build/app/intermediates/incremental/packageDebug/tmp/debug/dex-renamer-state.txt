@@ -1,0 +1,4 @@
+#Tue Feb 25 17:15:32 CST 2020
+base.0=/Users/gu/Documents/GitHub/fraction_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
